@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<title> this is going to display an input box </title>
+<body>
+			
+<form>
+<input type="text" list="json">
+<datalist id="json">
+  <option value="Adrianno">
+  <option value="CSS">
+  <option value="JavaScript">
+  <option value="Java">
+  <option value="Jakub">
+  <option value="Piotr">
+  <option value="Apple">
+  <option value="Jeremy">
+  <option value="Stockrender">
+  <option value="Zumiez">
+  <option value="BISHOP allen">
+  <option value="abolir">
+</datalist>
+</form>
+</body>
+
+
+</html>
