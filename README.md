@@ -1,2 +1,2 @@
 # html-autocomplete
-smooth and fast auto complete. auto complete values must be imputed anually
+smooth and fast auto complete. auto complete values must be imputed manually
